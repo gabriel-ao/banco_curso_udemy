@@ -12,14 +12,11 @@ namespace exercicio_Banco {
         public double valorConta { get; private set; }
         int taxa = 5;
 
-
         public Conta(int numeroConta, string nomeTitular, double valorConta) {
             this.numeroConta = numeroConta;
             this.nomeTitular = nomeTitular;
             this.valorConta = valorConta;
         }
-
-
 
         public double DepositandoValor(double novaEntrada) {
             return valorConta += novaEntrada;
@@ -31,7 +28,6 @@ namespace exercicio_Banco {
             } else {
                 return valorConta;
             }
-
         }
 
         public override string ToString() {

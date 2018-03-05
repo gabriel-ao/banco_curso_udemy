@@ -20,7 +20,7 @@ namespace exercicio_Banco {
 
             if (opcao == "s") {
                 Console.WriteLine("Digite o valor do depósito inicial: ");
-                valorConta = Convert.ToDouble(Console.ReadLine());  
+                valorConta = Convert.ToDouble(Console.ReadLine());
             }
 
             conta = new Conta(numeroConta, nome, valorConta);
@@ -47,7 +47,7 @@ namespace exercicio_Banco {
 
 
             Console.ReadKey();
-            
+
         }
     }
 }
