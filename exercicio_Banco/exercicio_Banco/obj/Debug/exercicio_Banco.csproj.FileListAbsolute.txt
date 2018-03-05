@@ -1,0 +1,7 @@
+C:\Users\gabri\Documents\IAPS\5° semestre\curso_C_Sharpe_udemy\curso_c#\capitulo 3\exercicio_Banco\exercicio_Banco\bin\Debug\exercicio_Banco.exe.config
+C:\Users\gabri\Documents\IAPS\5° semestre\curso_C_Sharpe_udemy\curso_c#\capitulo 3\exercicio_Banco\exercicio_Banco\bin\Debug\exercicio_Banco.exe
+C:\Users\gabri\Documents\IAPS\5° semestre\curso_C_Sharpe_udemy\curso_c#\capitulo 3\exercicio_Banco\exercicio_Banco\bin\Debug\exercicio_Banco.pdb
+C:\Users\gabri\Documents\IAPS\5° semestre\curso_C_Sharpe_udemy\curso_c#\capitulo 3\exercicio_Banco\exercicio_Banco\obj\Debug\exercicio_Banco.csprojResolveAssemblyReference.cache
+C:\Users\gabri\Documents\IAPS\5° semestre\curso_C_Sharpe_udemy\curso_c#\capitulo 3\exercicio_Banco\exercicio_Banco\obj\Debug\exercicio_Banco.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\IAPS\5° semestre\curso_C_Sharpe_udemy\curso_c#\capitulo 3\exercicio_Banco\exercicio_Banco\obj\Debug\exercicio_Banco.exe
+C:\Users\gabri\Documents\IAPS\5° semestre\curso_C_Sharpe_udemy\curso_c#\capitulo 3\exercicio_Banco\exercicio_Banco\obj\Debug\exercicio_Banco.pdb
