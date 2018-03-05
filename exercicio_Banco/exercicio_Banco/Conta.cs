@@ -7,19 +7,19 @@ using System.Threading.Tasks;
 namespace exercicio_Banco {
     class Conta {
 
-        int numeroConta { get; private set; }
-        string nomeTitular { get; private set; }
-        double valorConta = 0;
+        public int numeroConta { get; private set; }
+        public string nomeTitular { get; private set; }
+        public double valorConta { get; private set; }
         int taxa = 5;
 
-        public Conta() {
 
-        }
-        public Conta(int numeroConta, string nomeTitular, double valorConta) {
+        private Conta(int numeroConta, string nomeTitular, double valorConta) {
             this.numeroConta = numeroConta;
             this.nomeTitular = nomeTitular;
             this.valorConta = valorConta;
         }
+
+
 
         public double DepositandoValor(double novaEntrada) {
             return valorConta += novaEntrada;
