@@ -13,7 +13,7 @@ namespace exercicio_Banco {
         int taxa = 5;
 
 
-        private Conta(int numeroConta, string nomeTitular, double valorConta) {
+        public Conta(int numeroConta, string nomeTitular, double valorConta) {
             this.numeroConta = numeroConta;
             this.nomeTitular = nomeTitular;
             this.valorConta = valorConta;
